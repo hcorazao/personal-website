@@ -10,9 +10,13 @@
 	font-size: 1.5em;
 }
 
+.bold-text {
+	color: #FFFFFF;
+}
+
 .about-me-intro {
 	color: #d6d5d5;
-	font-size: 1em;
+	font-size: 1.25em;
 }
 .center{
 	text-align: center;
