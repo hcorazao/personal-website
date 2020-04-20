@@ -8,6 +8,15 @@
 	background-color: rgb(1, 1, 1);
 }
 
+.bg-black-grey {
+	background-color: #262626;
+}
+
+
+.bg-black {
+	background-color: #1a1a1a;
+}
+
 /*About me*/
 .about-me {
 	color: #d6d5d5;
@@ -29,4 +38,17 @@
 
 .about-me-abilities {
 	font-size: 1.75em;
+}
+
+.iframe-style {
+	width: 100%;
+    height: 115vh;
+}
+
+.bg-light-grey {
+	background-color: rgb(251, 252, 253);
+}
+
+.dart-text {
+	color: #262626;
 }
