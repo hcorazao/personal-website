@@ -12,6 +12,14 @@
 	background-color: #262626;
 }
 
+.bg-super-grey {
+	background-color: #4d4d4d;
+}
+
+.bg-super-black {
+	background-color: #1a1a1a;
+}
+
 
 .bg-black {
 	background-color: #1a1a1a;
@@ -52,3 +60,4 @@
 .dart-text {
 	color: #262626;
 }
+
