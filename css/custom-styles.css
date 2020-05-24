@@ -61,3 +61,22 @@
 	color: #262626;
 }
 
+/* Portfolio */
+.portfolio-item {
+
+}
+.portfolio-image {
+	height: 233px;
+	overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    cursor: pointer;
+}
+.portfolio-title {
+	text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-top: 1px;
+    font-weight: 100;
+}
