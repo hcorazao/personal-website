@@ -1,3 +1,7 @@
+html, body {
+	overflow-x: none;
+	overflow-y: auto;
+}
 .sub-title {
 	font-weight: lighter;
     font-size: 14px;
@@ -22,6 +26,19 @@
 
 .bg-black {
 	background-color: #1a1a1a;
+}
+
+.bg-vid {
+	position: absolute;
+	top: 0px;
+	left: 0;
+	width: 100vw;
+	min-height: 100%;
+	opacity: 0.4;
+}
+
+.small-intro {
+
 }
 
 /*About me*/
