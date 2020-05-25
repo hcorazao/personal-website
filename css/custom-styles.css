@@ -28,13 +28,17 @@ html, body {
 	background-color: #1a1a1a;
 }
 
+.total-dark {
+	background-color: #000;
+}
+
 .bg-vid {
 	position: absolute;
 	top: 0px;
 	left: 0;
 	width: 100vw;
 	min-height: 100%;
-	opacity: 0.4;
+	opacity: 0.1;
 }
 
 .small-intro {
