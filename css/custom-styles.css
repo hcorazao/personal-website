@@ -110,3 +110,8 @@ html, body {
 h5 {
 	font-size: 22px;
 }
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
