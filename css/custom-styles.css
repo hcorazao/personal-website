@@ -100,3 +100,13 @@ html, body {
     margin-top: 1px;
     font-weight: 100;
 }
+
+
+.modal-dialog {
+  max-width: 90% !important;
+  width: 90%;
+}
+
+h5 {
+	font-size: 22px;
+}
