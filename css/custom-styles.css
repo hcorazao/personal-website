@@ -115,3 +115,7 @@ h5 {
     overflow-x: hidden;
     overflow-y: hidden;
 }
+
+.portfolio-modal-description {
+	text-align: justify;
+}
