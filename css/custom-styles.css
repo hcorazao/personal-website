@@ -131,6 +131,7 @@ h5 {
 
 .modal-header {
     background-color: #262626;
+    border-bottom: 1px solid #404040;
 }
 
 .modal-body {
@@ -147,6 +148,9 @@ h5 {
 
 .modal-content {
     background-color: #262626;
+}
+.modal-header .close {
+    color: #FFFFFF;
 }
 
 .mobile-portfolio {
