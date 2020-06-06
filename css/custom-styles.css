@@ -166,4 +166,8 @@ h5 {
     .about-me-abilities {
         font-size: 1.25em;
     }
+    .modal-body {
+        overflow-y: scroll;
+        height: 460px;
+    }
 }
