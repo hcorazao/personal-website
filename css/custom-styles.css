@@ -154,3 +154,12 @@ h5 {
     margin-left: 50%;
     transform: translateX(-50%);
 }
+
+@media screen and (max-width: 767px) {
+    .about-me-intro {
+        font-size: 1.25em;
+    }
+    .about-me-abilities {
+        font-size: 1.25em;
+    }
+}
